@@ -1,8 +1,5 @@
 # nft-exhibition
 
-### Smart Contract
-
-
 ### WVE Github 레포지토리
 https://github.com/AI-NARTIST/wve
 
